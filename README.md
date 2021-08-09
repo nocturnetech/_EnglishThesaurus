@@ -5,5 +5,6 @@ The word definitions are stored in a json file called data.json. The code conver
 inputs a key and the program outputs the value.
 
 This program accounts for:
-- case sensitivity (e.g. France, france, FraNce and etc.)
+- case sensitivity (e.g. France, france, FraNce, FRANCE, etc.)
 - typos (e.g. appleee, rainn)
+- Words that don't exist in the dictionary
