@@ -7,4 +7,4 @@ inputs a key and the program outputs the value.
 This program accounts for:
 - case sensitivity (e.g. France, france, FraNce, FRANCE, etc.)
 - typos (e.g. appleee, rainn)
-- Words that don't exist in the dictionary
+- words that don't exist in the dictionary
